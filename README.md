@@ -22,7 +22,7 @@ Hacemos un commit
 > git commit -m "mensaje a agregar"
 
 Pusheamos al repo remoto
-> git push -f -u origin master
+> git push -f -u origin main
 
 Para hacer un pull request
 > git pull 'remote_name' 'branch_name'.
